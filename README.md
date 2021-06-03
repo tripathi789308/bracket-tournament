@@ -2,8 +2,12 @@
 
 ## To run the project
 
-Set the mongod --dbpath "" before starting the server
-![schema](https://user-images.githubusercontent.com/42732015/120613671-11464380-c474-11eb-92ca-a49bb065c01b.png)
+Set the mongod --dbpath "destination folder path" before starting the server
+
+
+
+
+![schema]<img src="https://user-images.githubusercontent.com/42732015/120613671-11464380-c474-11eb-92ca-a49bb065c01b.png" width="400" />
 
 
 ## to start server
@@ -17,7 +21,7 @@ npm run start:dev
 ## to start website
 ```
 cd front-end/brackets
-npm run
+npm start
 ```
 ![website](https://user-images.githubusercontent.com/42732015/120613690-14413400-c474-11eb-9a2e-81b60c8749a1.png)
 
