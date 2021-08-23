@@ -1,5 +1,8 @@
 # bracket-tournament
 
+# to view working of this website
+https://drive.google.com/file/d/1yzmkMsvR8hgmGd8ZPEtg3mWRlJ7GGdkp/view?usp=drivesdk
+
 ## To run the project
 
 Set the mongod --dbpath "destination folder path" before starting the server
